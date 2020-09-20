@@ -5,6 +5,23 @@
   2 https://pypi.tuna.tsinghua.edu.cn/simple/
 ```
 
+## pip全局配置文件
+```shell
+cd ~
+mkdir ~/.pip
+cd .pip
+touch pip.conf
+```
+
+### pip.conf
+```wiki
+[global]
+timeout = 6000
+index-url = https://pypi.douban.com/simple/
+[install]
+trusted-host=pypi.douban.com
+```
+
 # 安装配置
 ## 所需依赖包
 ```shell
