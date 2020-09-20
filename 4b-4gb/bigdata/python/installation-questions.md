@@ -1,4 +1,4 @@
-# pip镜像源
+# 一、pip镜像源
 ```wiki
 推荐两个镜像源——豆瓣和清华(互补)
   1 https://pypi.douban.com/simple/
@@ -22,7 +22,7 @@ index-url = https://pypi.douban.com/simple/
 trusted-host=pypi.douban.com
 ```
 
-# 安装配置
+# 二、安装配置
 ## 所需依赖包
 ```shell
 sudo apt-get install libatlas-base-dev
