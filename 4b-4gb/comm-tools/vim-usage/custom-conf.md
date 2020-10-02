@@ -10,8 +10,12 @@ vim vimrc.local
 `vimrc.local`的内容可参考下文：
 
 > set ts=4
+>
 > set expandtab
+>
 > set autoindent
+>
 > set nu
+>
 > syntax on
 
