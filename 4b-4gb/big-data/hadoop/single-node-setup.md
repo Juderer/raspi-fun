@@ -39,7 +39,7 @@ ssh
 
 * ssh无密码登录本地主机
 
-首先尝试`ssh localhost；如果需要密码，则进行下文配置；如果登录成功，跳过下文配置。
+首先尝试`ssh localhost`；如果需要密码，则进行下文配置；如果登录成功，跳过下文配置。
 
 ```shell
 ssh-keygen -t rsa -P '' -f ~/.ssh/id_rsa

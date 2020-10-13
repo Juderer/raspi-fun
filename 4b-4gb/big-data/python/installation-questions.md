@@ -1,3 +1,9 @@
+# 写在前面
+```
+Python安装包下载链接
+  https://www.python.org/ftp/python/
+```
+
 # 一、pip镜像源
 ```wiki
 推荐两个镜像源——豆瓣和清华(互补)
